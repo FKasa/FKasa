@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+You can check my CV here: https://fkasa.github.io/CV_FlamurKasa.pdf
 <!--
 **FKasa/FKasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
